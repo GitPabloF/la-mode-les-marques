@@ -1,0 +1,16 @@
+Liste des erreurs : 
+
+#1. script.js - ligne 53 - correction faute de frappe : #usrMail -> userMail
+
+#2. index.html - ligne 129 à 151 - erreur sémantique la balise 'section' doit être utilisée
+pour découper les differents contenus d'une page : section -> div 
+-> dans le fichier CSS le nommage a été adapté 
+
+#3. style.css - ligne 334 - ajout de margin: 0 auto; pour centrer le carrousel 
+
+#4. rollover-menu.css - ligne 37 - ajout des propriétés manquantes pour problème d'affichage : 'flex-direction: column' 
+
+#5. index.html - ligne 127 - ajout de l'icon 'information' manquant et CSS adapté en fonction.
+
+#6. script.js - ligne 12 - le 'addClass' n'était pas relié à 'topWrapper'
+
